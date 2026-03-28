@@ -1,0 +1,5 @@
+.foto {
+    width: 150px;        /* mengecilkan ukuran */
+    display: block;      /* supaya bisa di tengah */
+    margin: 0 auto;      /* menengahkan */
+}
